@@ -1,4 +1,4 @@
-# Список багов найденных во время исследовательского тестирования [сайта](https://makarovartem.github.io/frontend-avito-tech-test-assignment/)
+# Список багов найденных во время тестирования 
 
 ### Предусловие общее для всех багов: Открыть главную страницу [сайта](https://makarovartem.github.io/frontend-avito-tech-test-assignment/)
 
