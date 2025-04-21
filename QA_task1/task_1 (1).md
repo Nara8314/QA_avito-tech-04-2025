@@ -2,6 +2,5 @@
 Перед вами скриншот страницы Авито с результатами поиска. Изучите его, перечислите все имеющиеся баги, и укажите их приоритет (high, medium, low).
 
 ## Список багов
-![image](https://github.com/user-attachments/assets/d75c395d-5470-4cdc-a641-722cce5b56fa)
- 
-![Подписи багов на картинке](https://github.com/user-attachments/assets/c5eed54e-27bd-40fa-a20d-77b57fb17dac)
+![баг репорт](https://github.com/user-attachments/assets/1440dda5-9738-4f05-921c-0685f046a323)
+![Подписи багов на картинке](https://github.com/user-attachments/assets/dcf3ca07-6398-4d42-8352-f2e33b0b8b28)
